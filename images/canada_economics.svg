@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="213mm" height="141mm" viewBox="0 0 21300 14100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="rgb(0,69,134)" stroke="none" d="M 7072,463 C 6374,463 5681,572 5018,788 4355,1003 3729,1322 3165,1732 2601,2142 2105,2638 1695,3202 1285,3766 966,4392 751,5055 665,5320 595,5590 543,5863 L 7072,7108 7072,7108 7072,7108 7072,7108 7072,7108 7072,7108 7072,463 Z"/>
+ <path fill="rgb(255,66,14)" stroke="none" d="M 543,5863 C 465,6274 426,6691 426,7107 426,7805 535,8498 751,9161 966,9824 1285,10450 1695,11014 2105,11578 2601,12074 3165,12484 3278,12566 3393,12644 3510,12719 L 7072,7108 7072,7108 7072,7108 7072,7108 7072,7108 7072,7108 543,5863 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 3510,12719 C 3981,13018 4488,13256 5018,13428 5681,13644 6374,13754 7071,13754 7769,13754 8462,13644 9125,13428 9655,13256 10162,13018 10633,12719 L 7072,7108 7072,7108 7072,7108 7072,7108 7072,7108 3510,12719 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 10633,12719 C 10749,12644 10864,12566 10977,12484 11541,12074 12037,11578 12447,11014 12857,10450 13176,9824 13391,9161 L 7072,7108 7072,7108 7072,7108 7072,7108 10633,12719 Z"/>
+ <path fill="rgb(126,0,33)" stroke="none" d="M 13391,9161 C 13607,8498 13717,7805 13717,7108 13717,6551 13646,5996 13508,5456 L 7072,7108 7072,7108 7072,7108 13391,9161 Z"/>
+ <path fill="rgb(131,202,255)" stroke="none" d="M 13508,5456 C 13473,5321 13434,5187 13391,5055 13176,4392 12857,3766 12447,3202 L 7072,7108 7072,7108 7072,7108 13508,5456 Z"/>
+ <path fill="rgb(49,64,4)" stroke="none" d="M 12447,3202 C 12037,2638 11541,2142 10977,1732 L 7072,7108 7072,7108 12447,3202 Z"/>
+ <path fill="rgb(174,207,0)" stroke="none" d="M 10977,1732 C 10527,1404 10036,1134 9518,929 L 7072,7108 7072,7108 10977,1732 Z"/>
+ <path fill="rgb(75,31,111)" stroke="none" d="M 9518,929 C 9130,775 8727,659 8317,580 L 7072,7108 7072,7108 9518,929 Z"/>
+ <path fill="rgb(255,149,14)" stroke="none" d="M 8317,580 C 7906,502 7489,463 7072,463 L 7072,7108 7072,7108 8317,580 Z"/>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="2646" y="2827"><tspan fill="rgb(255,255,255)" stroke="none">22%</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="1116" y="9556"><tspan fill="rgb(255,255,255)" stroke="none">19%</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="6555" y="13462"><tspan fill="rgb(255,255,255)" stroke="none">18%</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="11295" y="10791"><tspan fill="rgb(255,255,255)" stroke="none">11%</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="12791" y="7472"><tspan fill="rgb(255,255,255)" stroke="none">9%</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="12159" y="4732"><tspan fill="rgb(255,255,255)" stroke="none">6%</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="11003" y="3072"><tspan fill="rgb(255,255,255)" stroke="none">5%</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="9681" y="2015"><tspan fill="rgb(255,255,255)" stroke="none">4%</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="8451" y="1437"><tspan fill="rgb(255,255,255)" stroke="none">3%</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="7298" y="1153"><tspan fill="rgb(255,255,255)" stroke="none">3%</tspan></tspan></tspan></text>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 15045,4903 L 14939,4903 14939,4692 15150,4692 15150,4903 15045,4903 Z"/>
+ <path fill="rgb(255,66,14)" stroke="none" d="M 15045,5401 L 14939,5401 14939,5190 15150,5190 15150,5401 15045,5401 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 15045,5899 L 14939,5899 14939,5688 15150,5688 15150,5899 15045,5899 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 15045,6397 L 14939,6397 14939,6186 15150,6186 15150,6397 15045,6397 Z"/>
+ <path fill="rgb(126,0,33)" stroke="none" d="M 15045,6895 L 14939,6895 14939,6684 15150,6684 15150,6895 15045,6895 Z"/>
+ <path fill="rgb(131,202,255)" stroke="none" d="M 15045,7392 L 14939,7392 14939,7181 15150,7181 15150,7392 15045,7392 Z"/>
+ <path fill="rgb(49,64,4)" stroke="none" d="M 15045,7890 L 14939,7890 14939,7679 15150,7679 15150,7890 15045,7890 Z"/>
+ <path fill="rgb(174,207,0)" stroke="none" d="M 15045,8388 L 14939,8388 14939,8177 15150,8177 15150,8388 15045,8388 Z"/>
+ <path fill="rgb(75,31,111)" stroke="none" d="M 15045,8886 L 14939,8886 14939,8675 15150,8675 15150,8886 15045,8886 Z"/>
+ <path fill="rgb(255,149,14)" stroke="none" d="M 15045,9384 L 14939,9384 14939,9173 15150,9173 15150,9384 15045,9384 Z"/>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="15250" y="4917"><tspan fill="rgb(0,0,0)" stroke="none">Сфера услуг</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="15250" y="5415"><tspan fill="rgb(0,0,0)" stroke="none">Финансы</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="15250" y="5913"><tspan fill="rgb(0,0,0)" stroke="none">Обрабатывающая промышленность</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="15250" y="6411"><tspan fill="rgb(0,0,0)" stroke="none">Торговля</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="15250" y="6909"><tspan fill="rgb(0,0,0)" stroke="none">Транспорт и связь</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="15250" y="7406"><tspan fill="rgb(0,0,0)" stroke="none">Рыболовство</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="15250" y="7904"><tspan fill="rgb(0,0,0)" stroke="none">Строительство</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="15250" y="8402"><tspan fill="rgb(0,0,0)" stroke="none">Добывающая промышленность</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="15250" y="8900"><tspan fill="rgb(0,0,0)" stroke="none">Лесное хозяйство</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="15250" y="9398"><tspan fill="rgb(0,0,0)" stroke="none">Сельское хозяйство</tspan></tspan></tspan></text>
+</svg>

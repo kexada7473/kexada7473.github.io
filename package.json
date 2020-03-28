@@ -1,0 +1,31 @@
+{
+    "name": "countries",
+    "productName": "countries",
+    "version": "0.0.2",
+    "description": "Canada, Brazil, RSA",
+    "main": "index.js",
+    "scripts": {
+        "start": "electron-forge start",
+        "build": "electron-packager . --arch=ia32 --platform=win32 --ignore=node_modules",
+        "dist": "electron-builder --win portable --ia32"
+    },
+    "build": {
+        "portable": {
+            "useZip": true
+        },
+        "compression": "store"
+    },
+    "keywords": [],
+    "author": {
+        "name": "Anton Danilkin",
+        "email": "afdw@yandex.ru"
+    },
+    "license": "MIT",
+    "private": true,
+    "dependencies": {},
+    "devDependencies": {
+        "electron": "8.1.1",
+        "@electron-forge/cli": "6.0.0-beta.45",
+        "electron-builder": "^22.4.1"
+    }
+}
